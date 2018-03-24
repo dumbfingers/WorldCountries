@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WorldCountries</string>
+    <string name="error">Oops, something went wrong</string>
+</resources>
