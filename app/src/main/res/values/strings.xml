@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">WorldCountries</string>
     <string name="error">Oops, something went wrong</string>
+    <string name="capital">Capital: %1$s</string>
+    <string name="population">Population: %1$d</string>
+    <string name="region">Region: %1$s</string>
+    <string name="native_name">Native Name: %1$s</string>
+    <string name="area">Area: %1$d \u33a2</string>
 </resources>

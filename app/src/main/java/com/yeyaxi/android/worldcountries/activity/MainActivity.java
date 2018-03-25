@@ -3,7 +3,7 @@ package com.yeyaxi.android.worldcountries.activity;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.yeyaxi.android.worldcountries.MainFragment;
+import com.yeyaxi.android.worldcountries.fragment.MainFragment;
 import com.yeyaxi.android.worldcountries.R;
 
 import butterknife.ButterKnife;

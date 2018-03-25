@@ -1,4 +1,4 @@
-package com.yeyaxi.android.worldcountries;
+package com.yeyaxi.android.worldcountries.fragment;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,6 +11,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
+import com.yeyaxi.android.worldcountries.adapter.CountryAdapter;
+import com.yeyaxi.android.worldcountries.Params;
+import com.yeyaxi.android.worldcountries.R;
+import com.yeyaxi.android.worldcountries.activity.DetailActivity;
 import com.yeyaxi.android.worldcountries.api.ApiClient;
 import com.yeyaxi.android.worldcountries.model.Country;
 

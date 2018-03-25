@@ -1,4 +1,4 @@
-package com.yeyaxi.android.worldcountries;
+package com.yeyaxi.android.worldcountries.adapter;
 
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
@@ -9,6 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
+import com.yeyaxi.android.worldcountries.R;
 import com.yeyaxi.android.worldcountries.model.Country;
 import com.yeyaxi.android.worldcountries.model.Flag;
 
